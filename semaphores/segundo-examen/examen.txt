@@ -1,0 +1,36 @@
+/*----------------------------------------------------------------
+
+*
+
+* Programación avanzada: Segundo Examen Parcial
+
+* Fecha: 12-Octubre-2018
+
+* Autor: A01206194 Marco Mancha
+
+*
+
+*--------------------------------------------------------------*/
+
+El problema es: Cigarrete Smokers
+
+gcc -o creat creat.c
+
+Ejecución: creat &
+
+gcc -o twenty twenty.c
+
+Ejecución: twenty &
+
+gcc -o fifty fifty.c
+
+Ejecución: fifty &
+
+gcc -o cent cent.c
+
+Ejecución: cent &
+
+gcc -o benji benji.c
+
+Ejecución: benji &
+
